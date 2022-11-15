@@ -3,6 +3,7 @@ html {
 }
 
 body {
+  background-image: linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255,122,89));
   margin: 0;
   font-family: "Work Sans", sans-serif;
 }
